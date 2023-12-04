@@ -24,7 +24,7 @@ body{
     justify-content: space-between;
     align-items: center;
     z-index: 100;
-}
+
 .logo{
     font-size: 25px;
     color: whitesmoke;
@@ -207,4 +207,11 @@ footer a {
 video{
     position: absolute;
     z-index: -1;
+}
+
+body {
+    overflow-x: hidden;
+    
+
+    
 }
